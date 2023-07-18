@@ -1,0 +1,7 @@
+configparce = 
+PySide6 =
+PySide6-Fluent-Widgets =
+mysql_connector_python =
+pyodbc =
+pywin32 =
+django =
