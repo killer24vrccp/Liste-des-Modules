@@ -6,7 +6,7 @@
 2. [django-environ](https://django-hosts.readthedocs.io/en/latest/)
  
 
-3. django-bootstrap-v5
+3. [django-bootstrap-v5](https://django-bootstrap-v5.readthedocs.io/en/latest/installation.html)
 
 4. crispy-bootstrap5
 
