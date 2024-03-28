@@ -30,8 +30,10 @@ Django-Environ est un module fort utile pour gérer les variable d'environement 
 
 12. django-tables2
 
-13. pillow
+13. django-parler
 
-14. pyodbc
+14. pillow
 
-15. ldap3
+15. pyodbc
+
+16. ldap3
