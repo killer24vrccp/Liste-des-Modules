@@ -8,13 +8,13 @@
 
 3. [django-bootstrap-v5](https://django-bootstrap-v5.readthedocs.io/en/latest/installation.html)
 
-4. crispy-bootstrap5
+4. [crispy-bootstrap5](https://pypi.org/project/crispy-bootstrap5/)
 
-5. django-betterforms
+5. [django-betterforms](https://django-betterforms.readthedocs.io/en/latest/intro.html#installation)
 
-6. django-countries
+6. [django-countries](https://pypi.org/project/django-countries/)
 
-7. django-crispy-forms
+7. [django-crispy-forms](https://pypi.org/project/crispy-bootstrap5/)
 
 8. django-cron
 
