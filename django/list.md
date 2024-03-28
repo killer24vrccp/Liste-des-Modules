@@ -32,6 +32,10 @@
 
 15. [django-restframework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation)
 
+16. [django-two-factor-auth](https://django-two-factor-auth.readthedocs.io/en/stable/installation.html)
+
+17. [Stripe](https://pypi.org/project/stripe/)
+
 15. pillow
 
 16. pyodbc
