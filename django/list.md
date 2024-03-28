@@ -9,3 +9,25 @@ Django-Hosts est un module permettant de pouvoir créer des sous domain dans la 
 
 Django-Environ est un module fort utile pour gérer les variable d'environement avec un fichier `.env`.
 > Documentation -> [URL Doc](https://django-environ.readthedocs.io/en/latest/)]
+
+3. django-bootstrap-v5
+
+4. crispy-bootstrap5
+
+5. django-betterforms
+
+6. django-countries
+
+7. django-crispy-forms
+
+8. django-cron
+
+9. django-jazzmin
+
+10. django-rosetta
+
+11. pillow
+
+12. pyodbc
+
+13. ldap3
