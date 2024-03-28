@@ -44,6 +44,10 @@
 
 21. [django-imagekit](https://pypi.org/project/django-imagekit/)
 
+22. [django-extensions](https://django-extensions.readthedocs.io/en/latest/)
+
+23. [django-appconf](https://django-appconf.readthedocs.io/en/latest/)
+
 15. pillow
 
 16. pyodbc
