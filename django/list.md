@@ -1,6 +1,6 @@
 # Django module
 
-1. django-hosts
+1. [django-hosts](https://django-hosts.readthedocs.io/en/latest/)]
 
 Django-Hosts est un module permettant de pouvoir créer des sous domain dans la même application et plus encore
 > Documentation -> [URL Doc](https://django-hosts.readthedocs.io/en/latest/)]
