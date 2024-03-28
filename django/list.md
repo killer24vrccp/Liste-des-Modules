@@ -28,8 +28,12 @@
 
 13. [django-parler](https://django-parler.readthedocs.io/en/stable/quickstart.html#installing-django-parler)
 
-14. pillow
+14. [django-restframework](https://www.django-rest-framework.org/)
 
-15. pyodbc
+15. [django-restframework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation)
 
-16. ldap3
+15. pillow
+
+16. pyodbc
+
+17. ldap3
