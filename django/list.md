@@ -48,6 +48,8 @@
 
 23. [django-appconf](https://django-appconf.readthedocs.io/en/latest/)
 
+24. [django-user-agents](https://pypi.org/project/django-user-agents/#:~:text=A%20django%20package%20that%20allows%20easy%20identification%20of%20visitor's%20browser,or%20a%20touch%20capable%20device.)
+
 15. pillow
 
 16. pyodbc
