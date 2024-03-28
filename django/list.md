@@ -36,6 +36,14 @@
 
 17. [Stripe](https://pypi.org/project/stripe/)
 
+18. [django-tenants](https://django-tenants.readthedocs.io/en/latest/install.html)
+
+19. [django-import-export](https://django-import-export.readthedocs.io/en/latest/installation.html)
+
+20. [django-ckeditor](https://pypi.org/project/django-ckeditor/#installation)
+
+21. [django-imagekit](https://pypi.org/project/django-imagekit/)
+
 15. pillow
 
 16. pyodbc
