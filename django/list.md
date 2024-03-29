@@ -114,3 +114,35 @@ Django Ratelimit est une bibliothèque Python qui offre des fonctionnalités de 
 <br>
 Avec Django Ratelimit, les développeurs peuvent facilement définir des règles de limitation de fréquence pour différentes vues de leur application Django. Ces règles peuvent être basées sur l'adresse IP de l'utilisateur, l'authentification de l'utilisateur ou d'autres critères personnalisés. En cas de dépassement de la limite de fréquence, Django Ratelimit peut renvoyer une réponse d'erreur personnalisée ou exécuter une action spécifique définie par le développeur.
 
+26. [django-scheduler](https://pypi.org/project/django-scheduler/)
+
+Django-scheduler est une application open-source qui permet de gérer et d'afficher des événements calendaires dans un projet Django. Elle offre une interface conviviale pour créer, modifier et supprimer des événements, ainsi que des fonctionnalités avancées telles que la répétition d'événements, la gestion des conflits d'horaires et la personnalisation de l'apparence du calendrier. Django-scheduler facilite l'intégration de fonctionnalités de planification et de 
+gestion du temps dans les applications web basées sur Django.
+
+27. [django-autocomplete-light](https://pypi.org/project/django-autocomplete-light/)
+
+Django-autocomplete-light est une bibliothèque open-source qui facilite la création de champs de saisie automatique (autocomplete) dans les applications web Django. Cette bibliothèque permet d'ajouter des fonctionnalités de saisie automatique aux formulaires Django en utilisant des vues et des widgets prédéfinis. Elle offre une intégration fluide avec les modèles Django et prend en charge différents types de sources de données pour les suggestions, y compris les 
+bases de données, les listes Python et les services web. Django-autocomplete-light simplifie le processus de mise en place de la saisie automatique dans les projets Django, offrant aux utilisateurs une expérience de saisie plus intuitive et efficace.
+
+28. [django-debug-toolbar](https://pypi.org/project/django-debug-toolbar/)
+
+Django Debug Toolbar est une extension pour le framework Django qui fournit une barre d'outils de débogage directement intégrée dans l'interface utilisateur de vos applications web Django lorsqu'elles sont en mode de développement. Cette barre d'outils offre des informations détaillées sur les requêtes SQL exécutées, les performances des vues, les variables de contexte, les signaux Django, et bien plus encore. Elle permet également de profiler les performances 
+des pages et de détecter les éventuels problèmes de performance. La Django Debug Toolbar est un outil précieux pour les développeurs Django car elle facilite le processus de débogage et d'optimisation des applications web.
+
+29. [django-simple-history](https://django-simple-history.readthedocs.io/en/latest/quick_start.html)
+
+Django-simple-history est une bibliothèque open-source qui permet de conserver un historique des modifications apportées aux instances de modèles dans une application Django. Cette bibliothèque enregistre automatiquement les modifications apportées aux objets de base de données et stocke ces informations dans une table dédiée de la base de données. Elle offre une interface simple pour accéder à l'historique des modifications et pour restaurer les objets dans 
+leurs états précédents. Django-simple-history est particulièrement utile pour les applications qui nécessitent un suivi détaillé des modifications apportées aux données, comme les systèmes de gestion de contenu, les systèmes de gestion des versions, ou les applications de suivi des modifications. En résumé, Django-simple-history simplifie la mise en œuvre de fonctionnalités d'historique des modifications dans les applications Django, en offrant une solution efficace et facile à utiliser.
+
+30. [django-constance](https://django-constance.readthedocs.io/en/latest/)
+
+Django-constance est une bibliothèque pour Django qui facilite la gestion des paramètres de configuration dynamiques. Elle offre une interface d'administration intégrée pour modifier ces paramètres sans avoir à modifier le code source de l'application. Les paramètres sont stockés dans la base de données, ce qui permet une gestion flexible et persistante des configurations. En résumé, Django-constance simplifie la gestion des configurations dynamiques dans les applications Django.
+
+31. [django-celery-beat](https://pypi.org/project/django-celery-beat/)
+
+Django-celery-beat est une extension pour le framework Django qui permet de planifier et de programmer des tâches périodiques en utilisant Celery, une bibliothèque de traitement asynchrone en Python. Cette extension fournit une interface conviviale pour définir des tâches récurrentes dans les applications Django en utilisant des expressions cron ou des périodes simples telles que chaque minute, heure, jour, etc.
+
+32. [django-allauth](https://pypi.org/project/django-allauth/)
+
+Django-allauth est une bibliothèque open-source qui fournit des fonctionnalités d'authentification et de gestion des comptes utilisateur pour les applications Django. Cette bibliothèque offre une solution complète pour l'inscription, la connexion, la déconnexion, la récupération de mot de passe, ainsi que la gestion des profils utilisateur et des comptes sociaux.
+
