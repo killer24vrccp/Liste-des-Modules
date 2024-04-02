@@ -60,7 +60,7 @@ Django-Tables2 est une bibliothèque Python qui simplifie la création de tables
 
 Django REST Framework (DRF) est une bibliothèque Python qui facilite le développement d'API Web RESTful dans les applications Django. Il fournit des outils puissants pour créer des API Web bien conçues, avec une prise en charge intégrée pour les opérations CRUD (Create, Read, Update, Delete), la sérialisation des données, l'authentification, l'autorisation, la pagination, la validation des données et bien plus encore.
 
-15. [django-restframework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation)
+15. [djangorestframework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/en/latest/getting_started.html#installation)
 
 Django REST Framework Simple JWT est une extension pour Django REST Framework (DRF) qui fournit une implémentation simple et puissante de JSON Web Tokens (JWT) pour l'authentification et l'autorisation dans les API Web Django.
 
