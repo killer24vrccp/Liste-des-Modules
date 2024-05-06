@@ -76,6 +76,10 @@ Stripe est une plateforme de paiement en ligne qui permet aux entreprises de tra
 
 Django Tenants est une bibliothèque Python qui permet de créer des applications multi-tenant avec Django, c'est-à-dire des applications où une seule instance de l'application sert plusieurs clients ou locataires, chacun avec ses propres données isolées. Cette bibliothèque fournit des outils pour gérer efficacement la logique multi-tenant dans les modèles de base de données Django, en permettant la création de schémas de base de données distincts pour chaque locataire.
 
+19. [django-tenant-users](https://django-tenant-users.readthedocs.io/en/latest/pages/installation.html)
+
+Django-tenant-users est une extension pour le framework Django qui permet la gestion des utilisateurs multilocataires. En d'autres termes, il offre une solution pour créer des applications Django où chaque utilisateur peut appartenir à un ou plusieurs "locataires" distincts, isolant ainsi les données et les fonctionnalités pour chaque locataire. Cela peut être utile dans les applications SaaS (Software as a Service) où plusieurs clients partagent la même instance d'application, mais doivent avoir des données séparées et des autorisations spécifiques à leur propre espace.
+
 19. [django-import-export](https://django-import-export.readthedocs.io/en/latest/installation.html)
 
 Django Import Export est une bibliothèque Python qui facilite l'importation et l'exportation de données dans les applications Django. Elle offre une interface conviviale pour importer des données à partir de fichiers CSV, JSON, Excel, ainsi que pour exporter des données vers ces formats.
